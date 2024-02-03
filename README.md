@@ -1,4 +1,4 @@
-### Hi 👋, i'm Sohir Ahmed
+### Hi 👋, I'm Sohir Ahmed
 
 <!--
 **sohirahmed/sohirahmed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

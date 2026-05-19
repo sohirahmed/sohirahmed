@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=38&center=true&vCenter=true&width=900&height=70&lines=Hi,+I'm+Sohir+Ahmed+%F0%9F%91%8B;Junior+Back-End+Developer+%7C+Node.js+%7C+MongoDB;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=38&center=true&vCenter=true&width=900&height=70&lines=Hi,+I'm+Sohir+Ahmed+%F0%9F%91%8B;Back-End+Developer+%7C+Node.js+%7C+Express.js;" alt="Typing SVG" />
 </p>
 
 ### 🚀 Back-End Developer | Node.js Specialist
@@ -12,7 +12,7 @@ Building secure, scalable, and production-ready backend systems.
 
 # 👨‍💻 About Me
 
-I'm a Junior Back-End Developer specialized in **Node.js**, focused on building scalable APIs, secure authentication systems, and maintainable backend architectures.
+I'm a Back-End Developer specialized in **Node.js**, focused on building scalable APIs, secure authentication systems, and maintainable backend architectures.
 
 💡 I enjoy designing systems that are:
 

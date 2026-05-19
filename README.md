@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=38&center=true&vCenter=true&width=900&height=70&lines=Hi,+I'm+Sohir+Ahmed+%F0%9F%91%8B;Back-End+Developer+%7C+Node.js+%7C+Express.js;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=00BFFF&size=38&center=true&vCenter=true&width=900&height=70&lines=Hi,+I'm+Sohir+Ahmed+%F0%9F%91%8B; Back-End+Developer+%7C+Node.js+%7C+Express.js;" alt="Typing SVG" />
 </p>
 
 ### 🚀 Back-End Developer | Node.js Specialist

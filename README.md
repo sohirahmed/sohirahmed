@@ -59,6 +59,18 @@ I work primarily with:
 
 # 🏆 Featured Projects
 
+## 🔹 NASA Mission Control
+### `Node.js • Express.js • MongoDB • REST API`
+
+Full-stack Mission Control dashboard inspired by NASA — schedule space launches and track real SpaceX missions.
+
+**Key Features:**
+✔ SpaceX API Integration (Axios) ✔ NASA Kepler CSV Parsing ✔ MVC Architecture ✔ MongoDB Atlas with Upsert ✔ Pagination Support ✔ Input Validation ✔ PM2 Cluster Mode ✔ Jest & Supertest Testing
+
+🔗 [View Repository](https://github.com/sohirahmed/nasa-mission-control)
+
+---
+
 ## 🔹 E-Commerce Store
 ### `Node.js • Express.js • MongoDB`
 Scalable e-commerce backend with full product, cart, and order management.
